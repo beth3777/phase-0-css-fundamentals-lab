@@ -1,5 +1,26 @@
-body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
+h1{
+  text-align: center;
 }
+nav > a{
+  background-color: gray;
+  margin-right: 10px;
+  margin-left: 10px;
+  text-align: center;
+}
+section#details{
+  background-color: red;
+  float: left;
+}
+section~div{
+  float: left;
+}
+body {
+  text-align: center:
+  font-size: small;
+  margin-right: auto;
+
+  width: 800px;
+  height: 100%;
+  margin: auto:
+
+
